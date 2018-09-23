@@ -14,10 +14,12 @@
       <thead>
         <tr>
           <th>date<th>
+          <th>heure<tr>
         </tr>
       <tbody>
         <tr>
           <td>date du jour</td>
+          <td>hh:mm:ss</td>
         </tr>
       </tbody>
       </thead>
