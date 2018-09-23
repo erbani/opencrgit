@@ -5,11 +5,12 @@
     <title>exgit</title>
   </head>
   <body>
-    <table>
-      <thead>
-        <tr>
-          <th>date<th>
-        </tr>
-      </thead>
-    </table>
+<h1>l'été arrive</h1>
+<p>coucou l'été arrive.</p>
+<ul>
+  <li>ballon</li>
+  <li>pelle</li>
+  <li>sable</li>
+  <li>parasol</li>
+</ul>
   </body>
