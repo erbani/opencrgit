@@ -14,12 +14,14 @@
       <thead>
         <tr>
           <th>date<th>
-          <th>heure<tr>
+          <th>heure<th>
+          <th>objet</th>
         </tr>
       <tbody>
         <tr>
           <td>date du jour</td>
           <td>hh:mm:ss</td>
+          <td>designation</td>
         </tr>
       </tbody>
       </thead>
